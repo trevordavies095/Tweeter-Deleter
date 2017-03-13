@@ -58,6 +58,7 @@ def keyword_remover(twitter, username, file):
 					ids.append(tweet['id'])
 			count += 1
 		clear()
+		print("Deleting tweets...")
 		print("Tweets deleted: " + str(deleted))
 		print("Tweets checked: " + str(count))
 		time.sleep(300)
