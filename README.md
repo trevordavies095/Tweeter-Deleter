@@ -4,4 +4,4 @@ This script deletes tweets based on specified keywords that the user determines 
 
 It'll take 8.5 hours to go through 20,000 tweets, so it's probably best to let this script run over night.
 
-![screenshot of Tweeter-Deleter](http://i.imgur.com/2y9kKHb.png)
+![screenshot of Tweeter-Deleter](http://i.imgur.com/XjYNqIZ.png)
