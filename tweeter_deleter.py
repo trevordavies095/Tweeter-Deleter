@@ -11,6 +11,7 @@ import argparse
 import time
 import os
 
+
 def term_args():
 	parser = argparse.ArgumentParser()
 	parser.add_argument("twitter_handle", type=str, help="twitter handle")
