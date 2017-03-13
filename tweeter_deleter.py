@@ -17,6 +17,7 @@ def term_args():
 	parser.add_argument("keyword_file", type=str, help="text file containing keywords")
 	return parser.parse_args()
 
+
 def clear():
     os.system("cls" if os.name == "nt" else "clear")
 
