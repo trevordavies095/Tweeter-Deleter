@@ -11,7 +11,6 @@ import argparse
 import time
 
 def term_args():
-
     parser = argparse.ArgumentParser()
     parser.add_argument("twitter_handle", type=str, help="twitter handle")
     parser.add_argument("keyword_file", type=str, help="text file containing keywords")
